@@ -1,0 +1,7 @@
+offer,churn_rate_within,churned_count,total_count_within,churn_rate,churn_count,total_general_count,acquisition_rate,joined_count,total_joined_count
+None,27.1,1051,3877,56.2,1051,1869,61.5,279,454
+Offer A,6.7,35,520,1.9,35,1869,,,
+Offer B,12.3,101,824,5.4,101,1869,,,
+Offer C,22.9,95,415,5.1,95,1869,,,
+Offer D,26.7,161,602,8.6,161,1869,,,
+Offer E,52.9,426,805,22.8,426,1869,38.5,175,454
