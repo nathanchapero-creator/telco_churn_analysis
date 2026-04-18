@@ -4,7 +4,7 @@
 https://public.tableau.com/views/Telco_California_Q3_Churn_Analysis_Chapero/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Executive Summary
-This project utilizes the publicly available Telco dataset to provide a structured churn and acquisition analysis of Telco, a fictional telecommunications company. The following analysis is for Q3 (published by IBM in 2019) and only incorporates Telco customers from California. This analysis focuses on churn and acquisition rate by offer, as well as by age groups.
+This project provides a structured churn and acquisition analysis of Telco, a fictional telecommunications company, using the publicly available IBM 2019 dataset. This database covers California markets in Q3, focusing on customer attrition rates and narrowed down to age and offer cohorts.
 
 ## The Business Problem
 
@@ -28,10 +28,20 @@ This project utilizes the publicly available Telco dataset to provide a structur
 * Data Storytelling & Reporting
 
 ## Key Insights
+* **Offer E** was the largest and only offer to acquire customers, making up **38.5%** of acquisitions
+* **Offer E** was also the offer with the **worst retention rate**, with **52.9%** of all customers on Offer E churning this quarter.
+* Customers from the **Boomer** generation (
 
 ## Strategic Recommendations
 
 ## Technical Appendix
+
+*Age groups were a customer created column segmenting customers into the following age groups:
+ * Gen Z: 27 years old or less
+ * Millennial: Between 28 and 43 years old
+ * Gen X: Between 44 and 59 years old
+ * Boomer: Between 60 and 78 years old
+ * Silent: 79 years old or more
 
 
 
