@@ -7,6 +7,8 @@ https://public.tableau.com/views/Telco_California_Q3_Churn_Analysis_Chapero/Dash
 This project provides a structured churn and acquisition analysis of Telco, a fictional telecommunications company, using the publicly available IBM 2019 dataset. This database covers California markets in Q3, focusing on customer attrition rates and narrowed down to age and offer cohorts.
 
 ## The Business Problem
+* Q3 proved to be a difficult quarter, as the California customer base shrank by **21.5%**.
+* Acquisition rate was acceptable at a rate of **6.9%**, but a churn rate of **28.4%** signals major issues in retention. What could be the main drivers for such a high churn rate?
 
 ## Tools & Methodologies
 
