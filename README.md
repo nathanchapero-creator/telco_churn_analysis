@@ -29,10 +29,12 @@ This project provides a structured churn and acquisition analysis of Telco, a fi
 
 ## Key Insights
 * **Offer E** was the largest and only offer to acquire customers, making up **38.5%** of acquisitions
-* **Offer E** was also the offer with the **worst retention rate**, with **52.9%** of all customers on Offer E churning this quarter.
-* Customers from the **Boomer** generation (
+* **Offer E** was also the offer with the worst retention rate at **52.9%**, more than 2x the average churn rate of **24.8%**.
+* Customers from the **Boomer** generation (Between 60 and 78 years old) had the highest churn rate at **35.1%**, nearly 10% more than the average churn rate of 28.8%.
+ * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the other four age groups averaged at n = 1725.
 
 ## Strategic Recommendations
+* **Offer E's** acquisition rate is great, but retention efforts must be 
 
 ## Technical Appendix
 
