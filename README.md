@@ -2,8 +2,7 @@
 
 <img width="946" height="766" alt="Telco_Analysis_Dashboard" src="https://github.com/user-attachments/assets/79dddff0-0455-41f4-b40d-72610860260d" />
 
-
-##General Summary
+## General Summary
 This project provides a structured churn and acquisition analysis of Telco, a fictional telecommunications company.
 
 ### Tools Used
