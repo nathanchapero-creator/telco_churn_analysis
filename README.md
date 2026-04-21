@@ -4,7 +4,7 @@
 https://public.tableau.com/views/Telco_California_Q3_Churn_Analysis_Chapero/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Executive Summary
-This project provides a structured churn and acquisition analysis of Telco, a fictional telecommunications company, using the publicly available IBM 2019 dataset. This database covers California markets in Q3, focusing on customer attrition rates and narrowed down to age and offer cohorts.
+This project provides a structured churn and acquisition analysis of Telco, a fictional telecommunications company, using the publicly available IBM 2019 dataset. This database covers California markets in Q3, focusing on customer attrition rates and narrowed down to age and offer cohorts. Segmentation reveals that **Offer E** and **Boomers** churn at the highest rates, indicating that stronger retention efforts, such as customer outreach and personalized offers, are recommended.
 
 ## The Business Problem
 * Q3 proved to be a difficult quarter, as the California customer base shrank by **21.5%**.
@@ -26,21 +26,25 @@ This project provides a structured churn and acquisition analysis of Telco, a fi
 * Visualization
 * Rate Calculation
 * KPI Aggregation
-* Data Validation & Integration Testing
+* Data Validation & Integrity Testing
 * Data Storytelling & Reporting
 
 ## Key Insights
-* **Offer E** was the largest and only offer to acquire customers, making up **38.5%** of acquisitions
-* **Offer E** was also the offer with the worst retention rate at **52.9%**, more than 2x the average churn rate of **24.8%**.
+* **Offer E** was our largest targeted acquisition method, making up **38.5%** of acquisitions
+* **Offer E** held the worst retention rate at **52.9%**, more than 2x the average churn rate of **24.8%**.
 * Customers from the **Boomer** generation (Between 60 and 78 years old) had the highest churn rate at **35.1%**, nearly 10% more than the average churn rate of 28.8%.
  * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the other four age groups averaged at n = 1725.
+* Within customers who churned and gave a reason, **45.0%** churned due to competitors.
+* Customers without **Premium Tech Support** churned at **twice** the rate.
 
 ## Strategic Recommendations
-* **Offer E's** acquisition rate is great, but retention efforts must be 
+* More personalized customer outreach support for **Offer E** to increase retention
+* Increase customer support
+* Focus on bettering retention for boomers
 
 ## Technical Appendix
 
-*Age groups were a customer created column segmenting customers into the following age groups:
+*Age groups were a custom column segmenting customers into the following age groups:
  * Gen Z: 27 years old or less
  * Millennial: Between 28 and 43 years old
  * Gen X: Between 44 and 59 years old
