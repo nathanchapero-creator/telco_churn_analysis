@@ -10,6 +10,19 @@ The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**)
 * Q3 proved to be a difficult quarter, as the California customer base shrank by **21.5%**.
 * Acquisition rate was acceptable at a rate of **6.9%**, but a churn rate of **28.4%** signaled major issues in retention. What could be the main drivers for such a high churn rate?
 
+## Key Insights
+* **Offer E** was our largest targeted acquisition method, making up **38.5%** of acquisitions
+* **Offer E** held the worst retention rate at **52.9%**, more than 2x the average churn rate of **24.8%**.
+* Customers from the **Boomer** generation (Between 60 and 78 years old) had the highest churn rate at **35.1%**, nearly 10% more than the average churn rate of 28.8%.
+ * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the other four age groups averaged at n = 1725.
+* Within customers who churned and gave a reason, **45.0%** churned due to competitors.
+* Customers without **Premium Tech Support** churned at **twice** the rate.
+
+## Strategic Recommendations
+* More personalized customer outreach support for **Offer E** to increase retention
+* Increase customer support
+* Focus on bettering retention for boomers
+
 ## Tools & Methodologies
 
 ### Tools Used
@@ -28,19 +41,6 @@ The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**)
 * KPI Aggregation
 * Data Validation & Integrity Testing
 * Data Storytelling & Reporting
-
-## Key Insights
-* **Offer E** was our largest targeted acquisition method, making up **38.5%** of acquisitions
-* **Offer E** held the worst retention rate at **52.9%**, more than 2x the average churn rate of **24.8%**.
-* Customers from the **Boomer** generation (Between 60 and 78 years old) had the highest churn rate at **35.1%**, nearly 10% more than the average churn rate of 28.8%.
- * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the other four age groups averaged at n = 1725.
-* Within customers who churned and gave a reason, **45.0%** churned due to competitors.
-* Customers without **Premium Tech Support** churned at **twice** the rate.
-
-## Strategic Recommendations
-* More personalized customer outreach support for **Offer E** to increase retention
-* Increase customer support
-* Focus on bettering retention for boomers
 
 ## Technical Appendix
 
