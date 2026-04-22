@@ -4,11 +4,11 @@
 https://public.tableau.com/views/Telco_California_Q3_Churn_Analysis_Chapero/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Executive Summary
-This project provides a structured churn and acquisition analysis of Telco, a fictional telecommunications company, using the publicly available IBM 2019 dataset. This database covers California markets in Q3, focusing on customer attrition rates and narrowed down to age and offer cohorts. Segmentation reveals that **Offer E** and **Boomers** churn at the highest rates, indicating that stronger retention efforts, such as customer outreach and personalized offers, are recommended.
+The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**) significantly outweighing acquisition (**6.9%**). **Offer E** customers are our highest-risk segment, churning at double the overall average across all offers (**52.9%** vs. **24.8%**). **Boomers** represent another high-risk segment with elevated churn rates (**35.1%** vs **28.8%** average). Given these patterns, efforts should focus on reducing early-stage churn rates using improved customer support, particularly for Offer E customers.
 
 ## The Business Problem
 * Q3 proved to be a difficult quarter, as the California customer base shrank by **21.5%**.
-* Acquisition rate was acceptable at a rate of **6.9%**, but a churn rate of **28.4%** signals major issues in retention. What could be the main drivers for such a high churn rate?
+* Acquisition rate was acceptable at a rate of **6.9%**, but a churn rate of **28.4%** signaled major issues in retention. What could be the main drivers for such a high churn rate?
 
 ## Tools & Methodologies
 
@@ -50,6 +50,9 @@ This project provides a structured churn and acquisition analysis of Telco, a fi
  * Gen X: Between 44 and 59 years old
  * Boomer: Between 60 and 78 years old
  * Silent: 79 years old or more
+
+* This project analyzes churn and acquisition rates for Telco, a fictional telecommunications company, using the publicly available IBM 2019 dataset.
+* This database covers California markets in Q3, focusing on customer attrition rates and narrowed down to age and offer cohorts
 
 
 
