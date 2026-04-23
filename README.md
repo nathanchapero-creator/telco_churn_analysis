@@ -10,9 +10,7 @@ The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**)
 Telco's California customer base experienced a significant decline in Q3. Retention difficulties are outweighing acquisition, leading to substantial net losses this quarter. This trend highlights the growing challenges of customer retention. Identifying and analyzing the main churn drivers will reveal which customer segments are most at risk. Understanding these drivers is critical for stabilizing the customer base and future revenue growth.
 
 ## Key Insights
-* **Offer E** represents our most successful acquisition offer, making up **38.5%** of all acquisitions this quarter.
-* **Offer E** held the worst retention rate at **52.9%**, more than **twice** the average churn rate of **24.8%**.
-* This frames Offer E as a potential **high-acquisition**, **low-retention** offer, with customers brought in by Offer E 
+* **High Acquisition, High Risk**: Offer E stands as the most efficient acquisition offer, making up **38.5%** of all acquisitions, but also suffers the worst retention rate at **52.9%**, more than **twice** the average churn rate of 24.8%.
 * Customers from the **Boomer** generation (Between 60 and 78 years old) had the highest churn rate at **35.1%**, nearly 10% more than the average churn rate of 28.8%.
  * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the other four age groups averaged at n = 1725.
 
