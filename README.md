@@ -10,15 +10,20 @@ The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**)
 Telco's California customer base experienced a significant decline in Q3. Retention difficulties are outweighing acquisition, leading to substantial net losses this quarter. This trend highlights the growing challenges of customer retention. Identifying and analyzing the main churn drivers will reveal which customer segments are most at risk. Understanding these drivers is critical for stabilizing the customer base and future revenue growth.
 
 ## Key Insights
-* **Offer E** was our largest targeted acquisition method, making up **38.5%** of acquisitions
-* **Offer E** held the worst retention rate at **52.9%**, more than 2x the average churn rate of **24.8%**.
+* **Offer E** represents our most successful acquisition offer, making up **38.5%** of all acquisitions this quarter.
+* **Offer E** held the worst retention rate at **52.9%**, more than **twice** the average churn rate of **24.8%**.
+* This frames Offer E as a potential **high-acquisition**, **low-retention** offer, with customers brought in by Offer E 
 * Customers from the **Boomer** generation (Between 60 and 78 years old) had the highest churn rate at **35.1%**, nearly 10% more than the average churn rate of 28.8%.
  * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the other four age groups averaged at n = 1725.
-* Within customers who churned and gave a reason, **45.0%** churned due to competitors.
-* Customers without **Premium Tech Support** churned at **twice** the rate.
+
+### Additional Insights
+* Among customers who churned and provided a reason, **45%** cited **competition** as a driving factor for leaving, suggesting external challenges in retention.
+* Customers without **Premium Tech Support** churned at **twice** the rate, indicating that customer support quality is a key retention driver (31.2% vs 15.2%).
+* **Early Lifecycle is High-risk:**
+* **Customers Churn Early:**
 
 ## Strategic Recommendations
-* More personalized customer outreach support for **Offer E** to increase retention
+* **Monitor Offer E Onboarding**: More personalized customer outreach support for **Offer E** to increase retention
 * Increase customer support
 * Focus on bettering retention for boomers
 
