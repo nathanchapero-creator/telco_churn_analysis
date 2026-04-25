@@ -4,21 +4,20 @@
 https://public.tableau.com/views/Telco_California_Q3_Churn_Analysis_Chapero/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Executive Summary
-The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**) significantly outweighing acquisition (**6.9%**). **Offer E** customers are our highest-risk segment, churning at double the overall average across all offers (**52.9%** vs. **24.8%**). **Boomers** represent another high-risk segment with elevated churn rates (**35.1%** vs **28.8%** average). Given these patterns, efforts should focus on reducing early-stage churn rates using improved customer support, particularly for Offer E customers.
+The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**) significantly outweighing acquisition (**6.9%**). **Offer E** customers are our highest-risk segment, churning at double the average across all offers (**52.9%** vs. **24.8%**). **Boomers** represent another high-risk segment with elevated churn rates across all age groups (**35.1%** vs **28.8%** average). Given these patterns, efforts should focus on reducing early-stage churn rates using improved customer support, particularly for Offer E customers.
 
 ## The Business Problem
-Telco's California customer base experienced a significant decline in Q3. Retention difficulties are outweighing acquisition, leading to substantial net losses this quarter. This trend highlights the growing challenges of customer retention. Identifying and analyzing the main churn drivers will reveal which customer segments are most at risk. Understanding these drivers is critical for stabilizing the customer base and future revenue growth.
+Telco's California customer base declined significantly in Q3. Retention difficulties are outweighing acquisition, leading to substantial net losses this quarter. This trend highlights the growing challenges of customer retention. Identifying and analyzing the main churn drivers will reveal which customer segments are most at risk. Understanding these drivers is critical for stabilizing the customer base and future revenue growth.
 
 ## Key Insights
-* **High Acquisition, High Risk**: Offer E stands as the most efficient acquisition offer, making up **38.5%** of all acquisitions, but also suffers the worst retention rate at **52.9%**, more than **twice** the average churn rate of 24.8%.
-* Customers from the **Boomer** generation (Between 60 and 78 years old) had the highest churn rate at **35.1%**, nearly 10% more than the average churn rate of 28.8%.
- * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the other four age groups averaged at n = 1725.
+* **High Acquisition, High Risk**: Offer E churns at **52.9%**, nearly double the **27.1%** rate of customers on no offer. As the only active acquisition offer this quarter, it's the most actionable retention opportunity.
+* **Older Generations:** Boomers churned at **35.1%**, more than 11 percentage points above the **23.5%** average across comparable age groups.
+ * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the remaining age groups averaged ~1,725 each.
 
 ### Additional Insights
-* Among customers who churned and provided a reason, **45%** cited **competition** as a driving factor for leaving, suggesting external challenges in retention.
-* Customers without **Premium Tech Support** churned at **twice** the rate, indicating that customer support quality is a key retention driver (31.2% vs 15.2%).
-* **Early Lifecycle is High-risk:**
-* **Customers Churn Early:**
+* **External Retention Challenges:** Among customers who churned and provided a reason, **45%** cited **competition** as a driving factor for leaving.
+* **Lack of Customer Service:** Customers without **Premium Tech Support** churned at **twice** the rate, indicating that customer support quality is a key retention driver (31.2% vs 15.2%).
+* **Customers Churn Early:** Around **1/3** customers (31.9%) who churned this quarter were customers for 3 months or fewer.
 
 ## Strategic Recommendations
 * **Monitor Offer E Onboarding**: More personalized customer outreach support for **Offer E** to increase retention
