@@ -1,6 +1,6 @@
 # Telco Q3 Performance Analysis - California
 
-<img width="850" height="687" alt="Telco_Project_Dashboard" src="https://github.com/user-attachments/assets/6cd629bb-368e-4e9d-975f-33a485a100e0" />
+<img width="850" height="693" alt="Telco_Project_Dashboard" src="https://github.com/user-attachments/assets/8bf6407a-d7f0-46aa-9092-da3a3ed91078" />
 https://public.tableau.com/views/Telco_California_Q3_Churn_Analysis_Chapero/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Executive Summary
