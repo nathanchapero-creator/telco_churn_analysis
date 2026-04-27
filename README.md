@@ -20,7 +20,7 @@ Telco's California customer base declined significantly in Q3. Retention difficu
 * **Customers Churn Early:** Around **1/3** customers (31.9%) who churned this quarter were customers for 3 months or fewer.
 
 ## Strategic Recommendations
-* **Monitor Offer E Onboarding**: More personalized customer outreach support for **Offer E** to increase retention
+* To address the severe churn rate from Offer E, offer a 30-minute customer service check-in to each customer 1-2 weeks before their offer expires. A strong execution will lead to Offer E churn rates flattening to base levels, on par with the average offer churn rate.
 * Increase customer support
 * Focus on bettering retention for boomers
 
