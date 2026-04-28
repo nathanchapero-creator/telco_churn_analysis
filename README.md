@@ -10,19 +10,20 @@ The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**)
 Telco's California customer base declined significantly in Q3. Retention difficulties are outweighing acquisition, leading to substantial net losses this quarter. This trend highlights the growing challenges of customer retention. Identifying and analyzing the main churn drivers will reveal which customer segments are most at risk. Understanding these drivers is critical for stabilizing the customer base and future revenue growth.
 
 ## Key Insights
-* **High Acquisition, Low Retention**: Offer E churns at **52.9%**, nearly double the **27.1%** rate of customers on no offer. As the only active acquisition offer this quarter, it's the most actionable retention opportunity.
+* **High Acquisition, Low Retention**: Offer E churns at **52.9%**, nearly double the overall churn rate (28.4%). As the only active acquisition offer this quarter, it's the most actionable retention opportunity.
 * **Older Generations:** Boomers churned at **35.1%**, more than 11 percentage points above the **23.5%** average across comparable age groups.
  * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the remaining age groups averaged ~1,725 each.
 
 ### Additional Insights
 * **External Retention Challenges:** Among customers who churned and provided a reason, **45%** cited **competition** as a driving factor for leaving.
 * **Lack of Customer Service:** Customers without **Premium Tech Support** churned at **twice** the rate, indicating that customer support quality is a key retention driver (31.2% vs 15.2%).
-* **Customers Churn Early:** Around **1/3** customers (31.9%) who churned this quarter were customers for 3 months or fewer.
+* **Customers Churn Early:** Around **1/3** customers (31.9%) churned within the first three months of their tenure.
 
 ## Strategic Recommendations
-* To address the severe churn rate from Offer E, offer a 30-minute customer service check-in to each customer 1-2 weeks before their offer expires. A strong execution will lead to Offer E churn rates flattening to base levels, on par with the average offer churn rate.
-* Increase customer support
-* Focus on bettering retention for boomers
+* 52.9% of customers on Offer E churn, suggesting that keeping them after their plan expires is difficult. It is possible that customers are choosing to leave simply by not renewing when their promotional plan expires. As a result, we should aim to 
+* To address the severe churn rate from Offer E, offer a customer service check-in to each customer 1-2 weeks before their plan ends. Strong execution will lead to Offer E churn rates flattening to base levels and on par with the average offer churn rate.
+* To reduce early-tenure churn rates, monitor engagement rates, check competitor prices, and consider upselling them on premium tech support if they are not satisfied with customer service.
+* Boomers churned at a rate nearly double the overall average, but by selling them premium tech support, we can lower churn rates and make money.
 
 ## Tools & Methodologies
 
