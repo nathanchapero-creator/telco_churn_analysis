@@ -4,7 +4,18 @@
 https://public.tableau.com/views/Telco_California_Q3_Churn_Analysis_Chapero/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Executive Summary
-The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**) significantly outweighing acquisition (**6.9%**). **Offer E** customers are our highest-risk segment, churning at double the overall average(**52.9%** vs. **28.4%**). **Boomers** represent another high-risk segment with elevated churn rates across comparable age groups (**35.1%** vs **23.5%** average). Given these patterns, efforts should focus on reducing early-stage churn rates using improved customer support, particularly for Offer E customers.
+
+The California Telco customer base declined by 21.5% in Q3, driven by churn (28.4%) significantly outpacing acquisition (6.9%), indicating a retention-led contraction rather than a demand issue.
+
+Two primary drivers explain most of the decline:
+
+Offer E performance is the largest contributor to churn. Customers on Offer E churn at 52.9%, nearly double the overall rate, and represent the main acquisition stream—making this both a growth and retention bottleneck.
+
+Early-tenure churn is a second key issue. About 31.9% of customers churn within the first 90 days, suggesting onboarding or early value realization problems.
+
+Secondary patterns include higher churn among Boomer customers (35.1%) and users without Premium Tech Support (31.2% vs 15.2%), though these likely reflect underlying product or cohort differences rather than primary causal drivers.
+
+Overall, churn is concentrated in early lifecycle behavior and a single high-volume offer, making these the highest-priority areas for retention improvement.
 
 ## The Business Problem
 Telco's California customer base declined significantly in Q3. Retention difficulties are outweighing acquisition, leading to substantial net losses this quarter. This trend highlights the growing challenges of customer retention. Identifying and analyzing the main churn drivers will reveal which customer segments are most at risk. Understanding these drivers is critical for stabilizing the customer base and future revenue growth.
