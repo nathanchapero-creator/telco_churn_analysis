@@ -10,19 +10,19 @@ The California customer base in Q3 declined by **21.5%**, with churn (**28.4%**)
 Telco's California customer base declined significantly in Q3. Retention difficulties are outweighing acquisition, leading to substantial net losses this quarter. This trend highlights the growing challenges of customer retention. Identifying and analyzing the main churn drivers will reveal which customer segments are most at risk. Understanding these drivers is critical for stabilizing the customer base and future revenue growth.
 
 ## Key Insights
-* **High Acquisition, Low Retention**: Offer E churns at **52.9%**, nearly double the overall churn rate (28.4%). As the only active acquisition offer this quarter, it's the most actionable retention opportunity.
+* **High Acquisition, Low Retention:** Offer E churns at **52.9%**, nearly double the overall churn rate (28.4%). As the only active acquisition offer this quarter, it's the most actionable retention opportunity.
 * **Older Generations:** Boomers churned at **35.1%**, more than 11 percentage points above the **23.5%** average across comparable age groups.
  * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the remaining age groups averaged ~1,725 each.
 
 ### Additional Insights
 * **External Retention Challenges:** Among customers who churned and provided a reason, **45%** cited **competition** as a driving factor for leaving.
 * **Lack of Customer Service:** Customers without **Premium Tech Support** churned at **twice** the rate, indicating that customer support quality is a key retention driver (31.2% vs 15.2%).
-* **Customers Churn Early:** Around **1/3** customers (31.9%) churned within the first three months of their tenure.
+* **Customers Churn Early:** Around **1/3** customers (31.9%) churned within the first three months of their tenure, suggesting possible onboarding issues.
 
 ## Strategic Recommendations
-* 52.9% of customers on Offer E churn, suggesting that keeping them after their plan expires is difficult. Customers may be choosing to leave simply by not renewing when their promotional plan expires. We should reach out just before their plan expires to encourage them to renew before they leave for our competitors.
-* One in three customers churns within the first three months. A reasonable hypothesis is that customers may not be getting onboarded properly into the service 
-* Boomers are churning at an above-average rate relative to other age groups. These boomers may be struggling with support services and are getting frustrated with the service. This is shown through the data, which demonstrates that most customers leave because of their competitor or service complaints. Boomers probably need support, but get frustrated with the support they are receiving. We should improve outreach nd do some training on how to help boomers.
+* **Prioritize Offer E retention (highest impact driver):** focus on converting promo users before discount expiry via early upsell flows and value reinforcement campaigns. Validate whether churn is promo-dependent via non-offer cohorts.
+* **Improve early-life retention:** address 0–90 day churn by tightening onboarding, reducing time-to-first-value, and introducing structured activation milestones.
+* **Validate Boomer segment friction:** Investigate whether elevated churn is driven by UX, support accessibility, or acquisition differences before designing targeted interventions.
 
 ## Tools & Methodologies
 
@@ -54,6 +54,19 @@ Telco's California customer base declined significantly in Q3. Retention difficu
 
 * This project analyzes churn and acquisition rates for Telco, a fictional telecommunications company, using the publicly available IBM 2019 dataset.
 * This database covers California markets in Q3, focusing on customer attrition rates and narrowed down to age and offer cohorts
+
+## SQL Query Directory
+
+All data manipulation and metric calculations were performed using Advanced SQL. The queries are broken down by their function in the analysis:
+
+**Exploratory Data Analysis**
+* [q3_telco_exploratory_SQL_initial_analysis.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_exploratory_SQL_initial_analysis.sql) - *Initial data exploration, cleaning, and identification of high-level churn trends.*
+
+**Dashboard Visualization Queries**
+The following queries were used to isolate specific cohorts and generate the aggregated CSV outputs used in the Tableau dashboard:
+* [q3_telco_churn_overview.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_churn_overview.sql) - *Calculates the baseline churn rate and overall market decline.*
+* [q3_telco_acquisition_retention_rates.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_acquisition_retention_rates.sql) - *Data prep for analyzing the performance of Offer E versus overall retention.*
+* [q3_telco_age_cohort_churn.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_age_cohort_churn.sql) - *Segments the customer base into generational cohorts (Gen Z, Millennials, Boomers, etc.) to calculate demographic churn rates.*[Uploading q3_telco_churn_overview.csv…]()
 
 
 
