@@ -23,7 +23,7 @@ Telco's California customer base declined significantly in Q3. Retention difficu
 ## Key Insights
 * **High Acquisition, Low Retention:** Offer E churns at **52.9%**, nearly double the overall churn rate (28.4%). As the only active acquisition offer this quarter, it's the most actionable retention opportunity.
 * **Older Generations:** Boomers churned at **35.1%**, more than 11 percentage points above the **23.5%** average across comparable age groups.
- * Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the remaining age groups averaged ~1,725 each.
+ ** Note: "Silent" generation was not highlighted due to a low sample size of n = 147, while the remaining age groups averaged ~1,725 each.
 
 ### Additional Insights
 * **External Retention Challenges:** Among customers who churned and provided a reason, **45%** cited **competition** as a driving factor for leaving.
