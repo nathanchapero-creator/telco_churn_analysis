@@ -66,7 +66,7 @@ All data manipulation and metric calculations were performed using Advanced SQL.
 The following queries were used to isolate specific cohorts and generate the aggregated CSV outputs used in the Tableau dashboard:
 * [q3_telco_churn_overview.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_churn_overview.sql) - *Calculates the baseline churn rate and overall market decline.*
 * [q3_telco_acquisition_retention_rates.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_acquisition_retention_rates.sql) - *Data prep for analyzing the performance of Offer E versus overall retention.*
-* [q3_telco_age_cohort_churn.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_age_cohort_churn.sql) - *Segments the customer base into generational cohorts (Gen Z, Millennials, Boomers, etc.) to calculate demographic churn rates.*[Uploading q3_telco_churn_overview.csv…]()
+* [q3_telco_age_cohort_churn.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_age_cohort_churn.sql) - *Segments the customer base into generational cohorts (Gen Z, Millennials, Boomers, etc.) to calculate demographic churn rates.*
 
 
 
