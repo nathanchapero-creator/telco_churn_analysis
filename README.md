@@ -60,7 +60,7 @@ Telco's California customer base declined significantly in Q3. Retention difficu
 All data manipulation and metric calculations were performed using Advanced SQL. The queries are broken down by their function in the analysis:
 
 **Exploratory Data Analysis**
-* [q3_telco_exploratory_SQL_initial_analysis.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_exploratory_SQL_initial_analysis.sql) - *Initial data exploration, cleaning, and identification of high-level churn trends.*
+* [q3_telco_exploratory_SQL_initial_analysis.sql](https://github.com/nathanchapero-creator/telco_churn_analysis/blob/main/q3_telco_exploratory_SQL_initial_analysis.sql) - *Initial data exploration and identification of high-level churn trends.*
 
 **Dashboard Visualization Queries**
 The following queries were used to isolate specific cohorts and generate the aggregated CSV outputs used in the Tableau dashboard:
