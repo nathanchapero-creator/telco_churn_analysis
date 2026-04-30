@@ -31,8 +31,8 @@ Telco's California customer base declined significantly in Q3. Retention difficu
 * **Customers Churn Early:** Around **1/3** customers (31.9%) churned within the first three months of their tenure, suggesting possible onboarding issues.
 
 ## Strategic Recommendations
-* **Prioritize Offer E retention (highest impact driver):** focus on converting promo users before discount expiry via early upsell flows and value reinforcement campaigns. Validate whether churn is promo-dependent via non-offer cohorts.
-* **Improve early-life retention:** address 0–90 day churn by tightening onboarding, reducing time-to-first-value, and introducing structured activation milestones.
+* **Prioritize Offer E retention (highest impact driver):** Focus on converting promo users before discount expiry via early upsell flows and value reinforcement campaigns. Validate whether churn is promo-dependent via non-offer cohorts.
+* **Improve early-life retention:** Address 0–90 day churn by tightening onboarding, reducing time-to-first-value, and introducing structured activation milestones.
 * **Validate Boomer segment friction:** Investigate whether elevated churn is driven by UX, support accessibility, or acquisition differences before designing targeted interventions.
 
 ## Tools & Methodologies
