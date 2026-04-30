@@ -5,17 +5,17 @@ https://public.tableau.com/views/Telco_California_Q3_Churn_Analysis_Chapero/Dash
 
 ## Executive Summary
 
-The California Telco customer base declined by 21.5% in Q3, driven by churn (28.4%) significantly outpacing acquisition (6.9%), indicating a retention-led contraction rather than a demand issue.
+The California Telco customer base declined by 21.5% in Q3, driven by churn (28.4%), significantly outpacing acquisition (6.9%), indicating a retention issue rather than a demand issue.
 
 Two primary drivers explain most of the decline:
 
-Offer E performance is the largest contributor to churn. Customers on Offer E churn at 52.9%, nearly double the overall rate, and represent the main acquisition stream—making this both a growth and retention bottleneck.
+Offer E performance is the largest contributor to churn. Customers on Offer E churn at 52.9%, nearly double the overall rate, and represent the main acquisition stream. This makes the offer both a growth and retention bottleneck.
 
-Early-tenure churn is a second key issue. About 31.9% of customers churn within the first 90 days, suggesting onboarding or early value realization problems.
+Early-tenure churn is a second key issue. About 31.9% of customers churn within the first 90 days, suggesting onboarding or problems realizing early value.
 
-Secondary patterns include higher churn among Boomer customers (35.1%) and users without Premium Tech Support (31.2% vs 15.2%), though these likely reflect underlying product or cohort differences rather than primary causal drivers.
+Secondary patterns include higher churn among Boomer customers (35.1%) and users without Premium Tech Support (31.2% vs 15.2%), though these likely reflect underlying product or cohort differences rather than primary reasons for churn.
 
-Overall, churn is concentrated in early lifecycle behavior and a single high-volume offer, making these the highest-priority areas for retention improvement.
+Overall, churn is concentrated in early lifecycle behavior and a single high-volume offer, making these the key areas for retention improvement.
 
 ## The Business Problem
 Telco's California customer base declined significantly in Q3. Retention difficulties are outweighing acquisition, leading to substantial net losses this quarter. This trend highlights the growing challenges of customer retention. Identifying and analyzing the main churn drivers will reveal which customer segments are most at risk. Understanding these drivers is critical for stabilizing the customer base and future revenue growth.
