@@ -9,7 +9,7 @@ The California Telco customer base declined by 21.5% in Q3, driven by churn (28.
 
 Two primary drivers explain most of the decline:
 
-Offer E performance is the largest contributor to churn. Customers on Offer E churn at 52.9%, nearly double the overall rate, and represent the main acquisition stream. This makes the offer both a growth and retention bottleneck.
+Offer E performance is the largest contributor to churn. Customers on Offer E churn at 52.9%, nearly double the overall rate, and represent the main targeted acquisition stream. This makes the offer both a growth and retention bottleneck.
 
 Early-tenure churn is a second key issue. About 31.9% of customers churn within the first 90 days, suggesting onboarding or problems realizing early value.
 
